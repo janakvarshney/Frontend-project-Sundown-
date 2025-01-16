@@ -24,13 +24,10 @@ The website is designed to be responsive, ensuring a seamless and enjoyable user
 
 ## How to Use
 1. Clone the repository.
-2. Open the `index.html` file in a web browser to explore the website.
+2. Open the `index.html` file in a web browser to explore the website
 
 ## Credits
 - **Original Website:** [https://www.sundown-studio.com/](https://www.sundown-studio.com/)
 - **Locomotive Scroll:** [https://github.com/locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll)
 - **Swiper JS:** [https://swiperjs.com/](https://swiperjs.com/)
 - **Remixicon:** [https://remixicon.com/](https://remixicon.com/)
-
-## Author
-[Jagmohan Singh Malhi](https://www.linkedin.com/in/jagmohan-singh-malhi-a67805243/)
